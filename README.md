@@ -1,2 +1,3 @@
 # Cricket-Matches-Assignment
-![Screenshot 2024-09-18 170121](https://github.com/user-attachments/assets/36a7484b-ff2e-4e3c-b2fc-2eec1f4c0174)
+
+![Screenshot 2024-09-19 142909](https://github.com/user-attachments/assets/9dd4b9ea-3653-4136-9ccc-f703b7e35437)
